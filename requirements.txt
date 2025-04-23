@@ -1,0 +1,12 @@
+ipykernel
+pandas
+transformers
+numpy
+tqdm
+langchain-community
+langchain-text-splitters
+transformers
+chromadb
+dotenv
+langchain-chroma
+langchain-openai
